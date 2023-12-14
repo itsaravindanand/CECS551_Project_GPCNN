@@ -10,7 +10,7 @@ GPC-API: [gpc-api](https://github.com/itsaravindanand/gpc-api.git)
 
 List of software/packages required and the respective versions:
 
-Software/Package | Version | Description
+# Software/Package | Version | Description
 ----------------------------------------------------------------------------
 Anaconda Navigator	| 2.5.1	| Anaconda | Used to create Runnable Environment
 
