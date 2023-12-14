@@ -1,0 +1,13 @@
+README.md
+setup.py
+gpc/__init__.py
+gpc/datasets.py
+gpc/layers.py
+gpc/mobilenet_v1.py
+gpc/models.py
+gpc/util.py
+gpc.egg-info/PKG-INFO
+gpc.egg-info/SOURCES.txt
+gpc.egg-info/dependency_links.txt
+gpc.egg-info/requires.txt
+gpc.egg-info/top_level.txt

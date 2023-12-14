@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: gpc
+Version: 0.1.1
+Summary: Grouped Point-wise Convolution Nerual Network - on MobileNetV1 Architecture 
+Home-page: https://github.com/joaopauloschuler/k-neural-api
+Author: VisionPals
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Scientific Research
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+
+
+GPC NEURAL API is a Keras based neural network API that will allow you to test faster!
+This project is uses the state of the art CNN - MobileNet and CIFAR-10 Dataset.
