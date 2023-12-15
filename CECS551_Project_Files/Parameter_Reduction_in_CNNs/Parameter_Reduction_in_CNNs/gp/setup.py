@@ -10,7 +10,7 @@ setup(name='gpc',
       description='Grouped Point-wise Convolution Nerual Network - on MobileNetV1 Architecture ',
       long_description=long_description,
       author='VisionPals',
-      url='https://github.com/joaopauloschuler/k-neural-api',
+      url='https://github.com/itsaravindanand/gpc-api.git',
       install_requires=[ # 'tensorflow>=2.10.0', # leaving this as a require sometimes replaces tensorflow
                         'pandas>=0.22.0',
                         'scikit-image>=0.15.0',
