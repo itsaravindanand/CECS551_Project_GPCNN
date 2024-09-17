@@ -4,6 +4,8 @@ A repository of the project files of Parameter Reduction in CNNs: The Role of Gr
 Project Setup:
 To execute the given python jupyter notebook, few software’s are required, and the details are furnished in the below table along with the link to download and setup.
 
+Project Report: [GPCNN](https://github.com/itsaravindanand/CECS551_Project_GPCNN/blob/main/CECS551_Project_Files/Parameter_Reduction_in_CNNs_Project_Report.pdf)
+
 Project File: [GPCNN](https://github.com/itsaravindanand/CECS551_Project_GPCNN.git)
 
 GPC-API: [gpc-api](https://github.com/itsaravindanand/gpc-api.git)
