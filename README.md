@@ -22,9 +22,7 @@ GPC-API: [gpc-api](https://github.com/itsaravindanand/gpc-api.git)
 # Analysis
 The architecture resulted in reducing the parameters by as much as 91.54%, while retaining up to 97.07% of the original accuracy over 50 epochs of computation. Among the various versions, the gpcMobileNetV1 with 128 channels stood out, achieving a 58.22% reduction in the number of parameters and a 71.78% decrease in the computational FLOPS count. Furthermore, the accuracy is 92.69% which is slightly higher than the standard MobileNet architecture. Even though, the GPU utilization necessitated older versions of the TensorFlow, the updated version was able to provide the parameter memory size which has significant reduction, the lower the channel count, the lower the parameter count, computations, and memory size. But, when accuracy of the network is concerned the more channel count, the better the accuracy of the CNN. 
 
-List of software/packages required and the respective versions:
-
-## Software/Package | Version | Description
+# Software/Package | Version | Description
 ----------------------------------------------------------------------------
 Anaconda Navigator	| 2.5.1	| Anaconda | Used to create Runnable Environment
 
