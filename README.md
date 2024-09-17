@@ -10,6 +10,15 @@ Project File: [GPCNN](https://github.com/itsaravindanand/CECS551_Project_GPCNN.g
 
 GPC-API: [gpc-api](https://github.com/itsaravindanand/gpc-api.git)
 
+Experiment results:
+| Architecture | Parameters Count | Parameter Reduction Percentage | Parameter Size | Computation (FLOPS) | Computation Reduction Percentage | Test Accuracy |
+|---|---|---|---|---|---|---|
+| MobileNet | 3.239M | NA | 12.36 MB | 567.751M | NA | 92.35% |
+| gpcMobileNet (16 Channels) | 0.274M | 91.54% | 1.05 MB | 32.122M | 94.34% | 89.67% |
+| gpcMobileNet (32 Channels) | 0.432M | 86.66% | 1.65 MB | 57.813M | 89.81% | 90.82% |
+| gpcMobileNet (64 Channels) | 0.748M | 76.90% | 2.85 MB | 83.503M | 85.29% | 91.96% |
+| gpcMobileNet (128 Channels) | 1.353M | 58.22% | 5.16 MB | 160.172M | 71.78% | 92.69% |
+
 List of software/packages required and the respective versions:
 
 ## Software/Package | Version | Description
